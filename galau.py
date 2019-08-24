@@ -30,10 +30,10 @@ def main():
             print warna.merah+'LU ITU BUKAN TIPE DIA\nHARUSNYA LU SADAR BRO!!'
             time.sleep(5)
             os.system('clear')
-            print warna.merah+'SAINGAN LU GAK CUMAN SATU DUA AJA.\nTAPI BANYAK BRO, MEREKA LEBIH KAYA DAN LEBIH BISA BAHAGIAIN SI '+warna.hijau+dia.upper()+warna.merah+' ITU :"")'
+            print warna.merah+'SAINGAN LU GAK CUMAN SATU DUA AJA.\nTAPI BANYAK BRO,\nMEREKA LEBIH KAYA DAN LEBIH BISA BAHAGIAIN SI '+warna.hijau+dia.upper()+warna.merah+' ITU :"")'
             time.sleep(7)
             os.system('clear')
-            print warna.merah+'MUNDUR BROO, MUNDUR... RELAKAN DIA DENGAN YANG LAIN. :")'
+            print warna.merah+'MUNDUR BROO, MUNDUR...\nRELAKAN DIA DENGAN YANG LAIN. :")'
             time.sleep(5)
             os.system('clear')
             kembali = raw_input(warna.hijau+'Apakah anda ingin mencoba pilihan yang lain? '+warna.merah+'[YA/gak] '+warna.kuning)
